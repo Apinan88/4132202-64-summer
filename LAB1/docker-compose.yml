@@ -4,4 +4,4 @@ services:
   web:
     image: nginx
     ports:
-      - "8000:00"
+      - "8000:80"
