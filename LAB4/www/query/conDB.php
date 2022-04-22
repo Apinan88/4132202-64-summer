@@ -4,7 +4,7 @@
 $host = "mysql";
 $user = "root";
 $pass = "1234";
-$db = "db_test0";
+$db = "db_test";
 
 try{
     $mysqli = new mysqli($host,$user,$pass,$db);
